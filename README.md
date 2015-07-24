@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FreeFlow
 ========
 
@@ -48,3 +49,7 @@ If you have changes you'd like to commit to the repo, you will need to sign the 
 [10]: examples/Artbook/src/com/comcast/freeflow/examples/artbook/layouts/ArtbookLayout.java
 [11]: http://www.youtube.com/watch?v=xDd-bcGqLkw
 [12]: https://plus.google.com/communities/109232474194967955567
+=======
+# FreeFlow
+FreeFlow Sample
+>>>>>>> 904d002c582ee72bfd41c8bed45ec8b847061bb4
